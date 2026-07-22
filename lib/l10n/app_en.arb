@@ -1,0 +1,13 @@
+{
+  "@@locale": "en",
+  "app_title": "Elite — Health & Finance",
+  "toggle_language": "Toggle language",
+  "health_services": "Health Services",
+  "health_desc": "Premium healthcare coverage and solutions for members.",
+  "health_desc_long": "Comprehensive health programs, insurance and member-exclusive offers.",
+  "finance_services": "Financial Services",
+  "finance_desc": "Consulting, facilities and advanced financial management.",
+  "finance_desc_long": "Investment services, advisory and tailored wealth management solutions.",
+  "selected": "Selected",
+  "contact_us": "Contact Us"
+}
